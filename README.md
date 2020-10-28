@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi everyone. 👋
+
+<div align="center">
+## SUPOTE BUALERNG <br> 
+Lecturer,Full Stack Developer-Javascript,PHP,Angular,Ionic,Win base-VB.NET,C#. and Freelance jobs Dev.
+</div>  
+  
+<i>Follow me around on</i><br>
+
+WebBlog:<a target="_blank" href="https://supote2014.blogspot.com/">บล๊อค "นัย..พจน์"</a><br>
+Fanpage:<a target="_blank" href="https://www.facebook.com/D2U2015">แชร์ความรู้</a> Or <a target="_blank" href="https://www.facebook.com/D2U2020">Redmagics Powerดีทูยู2020</a><br>
+Youtube:<a target="_blank" href="https://www.youtube.com/c/D2U2020/">D2U2020 สุพจน์ สอนฟรี สอนดี ใช้จริง</a>
+
 
 <!--
 **supoteb/supoteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
